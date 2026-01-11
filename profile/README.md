@@ -13,7 +13,7 @@ PingMe Social Ecosystem
 │
 ├── ⚙️ Server Layer (Backend)
 │   ├── Core API: Spring Boot
-│   └── Architecture: RESTful / Microservices
+│   └── Architecture: RESTful
 │
 ├── 💾 Data Persistence
 │   ├── Primary DB: PostgreSQL
